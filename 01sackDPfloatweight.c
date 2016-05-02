@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//code isnt taking floats right now but this exact same algo can be adjusted for it. the dp algo CANNOT be used for float weight and float profits
 typedef struct pair{
     int p;
     int w;
